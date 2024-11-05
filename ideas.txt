@@ -1,0 +1,25 @@
+NATURAL DISASTERS:
+---
+Earthquakes
+Tsunamis
+Hurricanes
+Floods
+Tornadoes
+Wildfire
+Blizzards
+Heatwaves
+Meteorite Impact
+Nuclear Accident
+Iceberg (ships do collide against them)
+
+GAMEPLAY:
+---
+player has to kill as many people as possible by creating natural disasters
+player stars by creating a first natural disaster on a specific country
+player gets danger points (yellow points on the country affected?) by killing people
+player can enhance/improve natural disasters stats to be more deadly with danger points
+player gets disasters points to unlock new natural disasters
+player has to play strategically to not run out of disasters points (for that, he must be killing people non stop)
+
+
+
